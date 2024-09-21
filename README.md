@@ -113,7 +113,8 @@ Without these tools, this project wouldn’t be possible!
 
 If you're passionate about AI and its real-world applications, feel free to connect with me:
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/gohil-jayrajsinh/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gohil-jayrajsinh/)
+
 
 Let’s push the boundaries of technology and make an impact! 🚀
 

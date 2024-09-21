@@ -62,7 +62,7 @@ Accurate second-hand car price predictions can transform the decision-making pro
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Gohil-Jayrajsinh/Advancing_Second-Hand_Car_Pricing_with_AI_Wizardry.git
 ```
 ### 2. Run the project:
 ```bash

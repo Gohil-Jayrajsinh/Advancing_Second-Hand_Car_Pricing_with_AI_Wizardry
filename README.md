@@ -25,7 +25,7 @@ The goal is to build a model that predicts second-hand car prices based on vario
 1. **Data Preprocessing**: Cleaned and prepared the dataset for model training using Pandas.
 2. **Feature Engineering**: Extracted meaningful features from the dataset to enhance model performance.
 3. **Model Training**: Multiple machine learning algorithms were explored and tuned using Scikit-learn to find the best model for price prediction.
-4. **Evaluation**: Accuracy was carefully evaluated using various metrics like MAE, RMSE, and R².
+4. **Evaluation**: Accuracy was carefully evaluated using various metrics like MAE, SD.
 
 ---
 
